@@ -1,0 +1,14 @@
+{
+  "name": "K2-weapon-sorting",
+  "version": "1.0",
+  "title": "Krastorio 2 weapon sorting",
+  "author": "Nezgal",
+  "homepage": "https://github.com/Nezgal/K2-weapon-sorting",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base",
+    "Krastorio2",
+    "aai-industry"
+  ],
+  "description": "Some sorting of all the mess created by mod added weapons. Mostly for personal use"
+}
